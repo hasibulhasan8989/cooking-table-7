@@ -1,0 +1,97 @@
+[
+    {
+      "recipe_id": 1,
+      "recipe_name": "Spicy Thai Basil Chicken",
+      "recipe_image": "https://i.ibb.co/7ckVLss/dish-1.jpg",
+      "short_description": "A quick and flavorful stir-fry with chicken, basil, and chili peppers.",
+      "ingredients": [
+        "550 g chicken",
+        "120 ml soy sauce",
+        "200 g basil leaf",
+        "400 g mushroom",
+        "3 cloves garlic",
+        "2 red chili peppers"
+      ],
+      "preparing_time": 30,
+      "calories": 320
+    },
+    {
+      "recipe_id": 2,
+      "recipe_name": "Creamy Mushroom Pasta",
+      "recipe_image": "https://i.ibb.co/DD5QKTRP/dish-2.jpg",
+      "short_description": "Rich and creamy pasta loaded with sautéed mushrooms and herbs.",
+      "ingredients": [
+        "300 g pasta",
+        "200 g mushroom",
+        "100 ml heavy cream",
+        "50 g parmesan cheese",
+        "2 cloves garlic",
+        "2 tbsp olive oil"
+      ],
+      "preparing_time": 25,
+      "calories": 450
+    },
+    {
+      "recipe_id": 3,
+      "recipe_name": "Classic Margherita Pizza",
+      "recipe_image": "https://i.ibb.co.com/Dfm2QPFD/dish-3.jpg",
+      "short_description": "Simple yet delicious pizza with tomato sauce, mozzarella, and fresh basil.",
+      "ingredients": [
+        "1 pizza dough",
+        "150 g mozzarella cheese",
+        "100 g tomato sauce",
+        "50 g fresh basil",
+        "1 tbsp olive oil"
+      ],
+      "preparing_time": 20,
+      "calories": 380
+    },
+    {
+      "recipe_id": 4,
+      "recipe_name": "Grilled Lemon Garlic Salmon",
+      "recipe_image": "https://i.ibb.co.com/h1ZH6wHp/dish-4.jpg",
+      "short_description": "Perfectly grilled salmon with a zesty lemon-garlic marinade.",
+      "ingredients": [
+        "4 salmon fillets",
+        "2 lemons",
+        "4 cloves garlic",
+        "2 tbsp olive oil",
+        "1 tsp salt",
+        "1 tsp black pepper"
+      ],
+      "preparing_time": 20,
+      "calories": 400
+    },
+    {
+      "recipe_id": 5,
+      "recipe_name": "Vegetable Stir Fry",
+      "recipe_image": "https://i.ibb.co.com/KpBb6GMJ/dish-5.jpg",
+      "short_description": "A colorful mix of stir-fried vegetables in a savory sauce.",
+      "ingredients": [
+        "1 red bell pepper",
+        "1 yellow bell pepper",
+        "100 g broccoli",
+        "100 g snap peas",
+        "50 ml soy sauce",
+        "2 tbsp sesame oil"
+      ],
+      "preparing_time": 15,
+      "calories": 250
+    },
+    {
+      "recipe_id": 6,
+      "recipe_name": "Avocado Toast with Egg",
+      "recipe_image": "https://i.ibb.co/0kBPNmL/dish6.jpg",
+      "short_description": "A healthy breakfast option with creamy avocado and a soft-boiled egg.",
+      "ingredients": [
+        "2 slices whole grain bread",
+        "1 ripe avocado",
+        "2 eggs",
+        "1 tbsp lemon juice",
+        "1 pinch salt",
+        "1 pinch black pepper"
+      ],
+      "preparing_time": 10,
+      "calories": 300
+    }
+  ]
